@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="items">
+        <item quantity="one">1 elemento</item>
+        <item quantity="other">%1$d elementi</item>
+    </plurals>
+    <plurals name="items_deleted">
+        <item quantity="one">1 elemento eliminato</item>
+        <item quantity="other">%1$d elementi eliminati</item>
+    </plurals>
+    <plurals name="smtfp_items">
+        <item quantity="one">1 elemento</item>
+        <item quantity="other">%1$d elementi</item>
+    </plurals>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Vai alla home page"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Vai in alto"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Altre opzioni"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Fine"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Visualizza tutte"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Scegli un\'applicazione"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"OFF"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"ON"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Cerca…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Cancella query"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Query di ricerca"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Cerca"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Invia query"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Ricerca vocale"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Condividi con"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Condividi con %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Comprimi"</string>
+    <string name="album">Album</string>
+    <string name="app_launcher_name">File Manager</string>
+    <string name="app_name">File Manager</string>
+    <string name="artist">Artist</string>
+    <string name="cancel">Annulla</string>
+    <string name="copy">Copia</string>
+    <string name="copy_failed">Impossibile copiare i file</string>
+    <string name="copy_item">Copia elemento</string>
+    <string name="copy_items">Copia elementi</string>
+    <string name="copy_move">Copia/Sposta</string>
+    <string name="copying">Copia in corso</string>
+    <string name="create_new">Crea nuovo elemento</string>
+    <string name="dark_theme">Tema scuro</string>
+    <string name="delete">Elimina</string>
+    <string name="destination">Destinazione</string>
+    <string name="directory">Cartella</string>
+    <string name="duration">Duration</string>
+    <string name="error_occurred">Riscontrato un errore sconosciuto</string>
+    <string name="file">File</string>
+    <string name="files_count">Total files count</string>
+    <string name="initial_breadcrumb">home</string>
+    <string name="invalid_destination">Impossibile scrivere nella destinazione selezionata</string>
+    <string name="invalid_name">Il nome contiene caratteri non validi</string>
+    <string name="last_modified">Ultima modifica</string>
+    <string name="move">Sposta</string>
+    <string name="name">Nome</string>
+    <string name="name_taken">Esiste già un file o una cartella con quel nome</string>
+    <string name="no_app_found">Nessuna app disponibile per aprire questo tipo di file</string>
+    <string name="no_files_selected">Nessun file selezionato</string>
+    <string name="no_permissions">Serve l\'autorizzazione per accedere all\'archiviazione</string>
+    <string name="ok">OK</string>
+    <string name="path">Percorso</string>
+    <string name="please_select_destination">Seleziona una destinazione</string>
+    <string name="press_back_again">Press back again to exit</string>
+    <string name="properties">Proprietà</string>
+    <string name="rename">Rinomina</string>
+    <string name="rename_directory">Rinomina cartella</string>
+    <string name="rename_file">Rinomina file</string>
+    <string name="resolution">Resolution</string>
+    <string name="select_destination">Seleziona destinazione</string>
+    <string name="settings">Impostazioni</string>
+    <string name="share">Condividi</string>
+    <string name="share_via">Condividi via</string>
+    <string name="shared_files">File condivisi via Simple File Manager</string>
+    <string name="show_full_path">Mostra percorso completo</string>
+    <string name="show_hidden">Mostra file e cartelle nascosti</string>
+    <string name="size">Dimensione</string>
+    <string name="smtfp_cancel">Annulla</string>
+    <string name="smtfp_initial_breadcrumb">home</string>
+    <string name="smtfp_ok">OK</string>
+    <string name="smtfp_select_destination">Seleziona destinazione</string>
+    <string name="source">Fonte</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="undo">Annulla</string>
+</resources>

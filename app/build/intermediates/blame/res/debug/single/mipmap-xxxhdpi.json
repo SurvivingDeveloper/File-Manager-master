@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "D:\\dima\\android\\File-Manager-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\file.png",
+        "source": "D:\\dima\\android\\File-Manager-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\file.png"
+    },
+    {
+        "merged": "D:\\dima\\android\\File-Manager-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\share.png",
+        "source": "D:\\dima\\android\\File-Manager-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\share.png"
+    },
+    {
+        "merged": "D:\\dima\\android\\File-Manager-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\delete.png",
+        "source": "D:\\dima\\android\\File-Manager-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\delete.png"
+    },
+    {
+        "merged": "D:\\dima\\android\\File-Manager-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\directory.png",
+        "source": "D:\\dima\\android\\File-Manager-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\directory.png"
+    },
+    {
+        "merged": "D:\\dima\\android\\File-Manager-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\plus.png",
+        "source": "D:\\dima\\android\\File-Manager-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\plus.png"
+    },
+    {
+        "merged": "D:\\dima\\android\\File-Manager-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\edit.png",
+        "source": "D:\\dima\\android\\File-Manager-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\edit.png"
+    },
+    {
+        "merged": "D:\\dima\\android\\File-Manager-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\copy.png",
+        "source": "D:\\dima\\android\\File-Manager-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\copy.png"
+    },
+    {
+        "merged": "D:\\dima\\android\\File-Manager-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\info.png",
+        "source": "D:\\dima\\android\\File-Manager-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\info.png"
+    },
+    {
+        "merged": "D:\\dima\\android\\File-Manager-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\launcher.png",
+        "source": "D:\\dima\\android\\File-Manager-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\launcher.png"
+    }
+]

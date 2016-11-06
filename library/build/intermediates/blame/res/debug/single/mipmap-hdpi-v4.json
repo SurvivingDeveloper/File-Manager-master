@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\dima\\android\\File-Manager-master\\library\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\smtfp_file.png",
+        "source": "D:\\dima\\android\\File-Manager-master\\library\\src\\main\\res\\mipmap-hdpi\\smtfp_file.png"
+    },
+    {
+        "merged": "D:\\dima\\android\\File-Manager-master\\library\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\smtfp_directory.png",
+        "source": "D:\\dima\\android\\File-Manager-master\\library\\src\\main\\res\\mipmap-hdpi\\smtfp_directory.png"
+    }
+]

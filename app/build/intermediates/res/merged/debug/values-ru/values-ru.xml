@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="items">
+        <item quantity="one">1 элемент</item>
+        <item quantity="other">%1$d элементы</item>
+    </plurals>
+    <plurals name="items_deleted">
+        <item quantity="one">1 пункт удален</item>
+        <item quantity="other">%1$d элементы удаляются</item>
+    </plurals>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Перейти на главный экран"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Перейти вверх"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Другие параметры"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Готово"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Показать все"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Выбрать приложение"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"ОТКЛ."</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"ВКЛ."</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Поиск"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Удалить запрос"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Поисковый запрос"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Поиск"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Отправить запрос"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Голосовой поиск"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Открыть доступ"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Открыть доступ пользователю %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Свернуть"</string>
+    <string name="album">Альбом</string>
+    <string name="app_launcher_name">File Manager</string>
+    <string name="app_name">File Manager</string>
+    <string name="artist">художник</string>
+    <string name="cancel">Отмена</string>
+    <string name="copy">Копировать</string>
+    <string name="copy_failed">Не удалось скопировать файлы</string>
+    <string name="copy_item">Копировать элемент</string>
+    <string name="copy_items">Копировать элементы</string>
+    <string name="copy_move">Копировать / Переместить</string>
+    <string name="copying">Копирование</string>
+    <string name="create_new">Создать новый элемент</string>
+    <string name="dark_theme">Темная тема</string>
+    <string name="delete">Удалить</string>
+    <string name="destination">Назначения</string>
+    <string name="directory">Каталог</string>
+    <string name="duration">продолжительность</string>
+    <string name="error_occurred">Произошла неизвестная ошибка</string>
+    <string name="file">Файл</string>
+    <string name="files_count">Всего файлов</string>
+    <string name="initial_breadcrumb">Домой</string>
+    <string name="invalid_destination">Не удалось записать в выбранное место</string>
+    <string name="invalid_name">Имя содержит недопустимые символы</string>
+    <string name="last_modified">Последнее изменение</string>
+    <string name="move">движение</string>
+    <string name="name">Имя</string>
+    <string name="name_taken">Каталог или файл с таким именем уже существует</string>
+    <string name="no_app_found">Нет приложения для открытия данного типа файлов</string>
+    <string name="no_files_selected">Файлы не выбраны</string>
+    <string name="no_permissions">Нам нужно разрешение для доступа к памяти</string>
+    <string name="ok">ОК</string>
+    <string name="path">путь</string>
+    <string name="please_select_destination">Пожалуйста, выберите пункт назначения</string>
+    <string name="press_back_again">Нажмите снова, чтобы выйти</string>
+    <string name="properties">Свойства</string>
+    <string name="rename">Переименовать</string>
+    <string name="rename_directory">Переименовать каталог</string>
+    <string name="rename_file">Переименовать файл</string>
+    <string name="resolution">Разрешение</string>
+    <string name="select_destination">Выберите пункт назначения</string>
+    <string name="settings">настройки</string>
+    <string name="share">Поделиться</string>
+    <string name="share_via">Отправить по</string>
+    <string name="shared_files">Файлы для совместного использования через простой файловый менеджер</string>
+    <string name="show_full_path">Показать полный путь</string>
+    <string name="show_hidden">Показывать скрытые файлы и папки</string>
+    <string name="size">Размер</string>
+    <string name="source">Источник</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">">999"</string>
+    <string name="undo">Undo</string>
+</resources>

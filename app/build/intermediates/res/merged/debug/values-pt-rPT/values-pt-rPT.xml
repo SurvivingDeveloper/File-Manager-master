@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="items">
+        <item quantity="one">1 item</item>
+        <item quantity="other">%1$d itens</item>
+    </plurals>
+    <plurals name="items_deleted">
+        <item quantity="one">1 item eliminado</item>
+        <item quantity="other">%1$d itens eliminados</item>
+    </plurals>
+    <plurals name="smtfp_items">
+        <item quantity="one">1 item</item>
+        <item quantity="other">%1$d itens</item>
+    </plurals>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Navegar para a página inicial"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Navegar para cima"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Mais opções"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Concluído"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Ver tudo"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Escolher uma aplicação"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"DESATIVADO"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"ATIVADO"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Pesquisar..."</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Limpar consulta"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Consulta de pesquisa"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Pesquisar"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Enviar consulta"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Pesquisa por voz"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Partilhar com"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Partilhar com %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Reduzir"</string>
+    <string name="album">Album</string>
+    <string name="app_launcher_name">Gestor de ficheiros</string>
+    <string name="app_name">File Manager</string>
+    <string name="artist">Artist</string>
+    <string name="cancel">Cancelar</string>
+    <string name="copy">Copiar</string>
+    <string name="copy_failed">Não foi possível copiar os ficheiros</string>
+    <string name="copy_item">Copiar item</string>
+    <string name="copy_items">Copiar itens</string>
+    <string name="copy_move">Copiar/Mover</string>
+    <string name="copying">A copiar</string>
+    <string name="create_new">Criar novo item</string>
+    <string name="dark_theme">Tema escuro</string>
+    <string name="delete">Eliminar</string>
+    <string name="destination">Destino</string>
+    <string name="directory">Pasta</string>
+    <string name="duration">Duration</string>
+    <string name="error_occurred">Ocorreu um erro desconhecido</string>
+    <string name="file">Ficheiro</string>
+    <string name="files_count">Total files count</string>
+    <string name="initial_breadcrumb">início</string>
+    <string name="invalid_destination">Não foi possível escrever no destino selecionado</string>
+    <string name="invalid_name">O nome contém caracteres inválidos</string>
+    <string name="last_modified">Última modificação</string>
+    <string name="move">Mover</string>
+    <string name="name">Nome</string>
+    <string name="name_taken">Já existe um ficheiro ou pasta com esse nome</string>
+    <string name="no_app_found">Nenhuma aplicação para abrir este tipo de ficheiros disponível</string>
+    <string name="no_files_selected">Nenhum ficheiro selecionado</string>
+    <string name="no_permissions">É necessária a permissão para aceder ao armazenamento</string>
+    <string name="ok">OK</string>
+    <string name="path">Caminho</string>
+    <string name="please_select_destination">Por favor selecione um destino</string>
+    <string name="press_back_again">Press back again to exit</string>
+    <string name="properties">Propriedades</string>
+    <string name="rename">Renomear</string>
+    <string name="rename_directory">Renomear pasta</string>
+    <string name="rename_file">Renomear ficheiro</string>
+    <string name="resolution">Resolution</string>
+    <string name="select_destination">Selecionar destino</string>
+    <string name="settings">Definições</string>
+    <string name="share">Partilhar</string>
+    <string name="share_via">Partilhar via</string>
+    <string name="shared_files">Ficheiros partilhados via Simple File Manager</string>
+    <string name="show_full_path">Mostrar caminho completo</string>
+    <string name="show_hidden">Mostrar ficheiros e pastas ocultos</string>
+    <string name="size">Tamanho</string>
+    <string name="smtfp_cancel">Cancelar</string>
+    <string name="smtfp_initial_breadcrumb">início</string>
+    <string name="smtfp_ok">OK</string>
+    <string name="smtfp_select_destination">Selecionar destino</string>
+    <string name="source">Origem</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"+999"</string>
+    <string name="undo">Desfazer</string>
+</resources>
